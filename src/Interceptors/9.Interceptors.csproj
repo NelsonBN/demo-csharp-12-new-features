@@ -7,6 +7,7 @@
     <Nullable>enable</Nullable>
     <RootNamespace>Demo</RootNamespace>
     <LangVersion>preview</LangVersion>
+    <InterceptorsPreviewNamespaces>$(InterceptorsPreviewNamespaces);Demo</InterceptorsPreviewNamespaces>
   </PropertyGroup>
 
 </Project>

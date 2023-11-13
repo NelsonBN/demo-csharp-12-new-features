@@ -42,3 +42,14 @@
 ## 7. ExperimentalAttribute
 
 [Official documentation](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-12.0/experimental-attribute)
+
+
+# 8. Nameof accessing instance members
+
+[Official documentation](https://devblogs.microsoft.com/dotnet/new-csharp-12-preview-features/#nameof-accessing-instance-members)
+
+
+# 9. Interceptors
+
+[Official documentation](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12#interceptors)
+[Blog](https://devblogs.microsoft.com/dotnet/new-csharp-12-preview-features/#interceptors)

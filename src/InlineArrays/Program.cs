@@ -1,5 +1,5 @@
 ﻿
-var buffer = new Buffer();
+var buffer = new Buffer<int>();
 for (var i = 0; i < 10; i++)
 {
     buffer[i] = i * i;
@@ -8,7 +8,7 @@ for (var i = 0; i < 10; i++)
 
 
 [System.Runtime.CompilerServices.InlineArray(10)]
-public struct Buffer
+public struct Buffer<T>
 {
-    private int _element0;
+    private T _element0;
 }
