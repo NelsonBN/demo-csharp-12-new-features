@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.PrimaryConstructors", "src\PrimaryConstructors\1.PrimaryConstructors.csproj", "{F8930252-4ABB-4BF4-BD6F-1BBCEDCCD8FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.PrimaryConstructors", "src\PrimaryConstructors\01.PrimaryConstructors.csproj", "{F8930252-4ABB-4BF4-BD6F-1BBCEDCCD8FF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.CollectionExpressions", "src\CollectionExpressions\2.CollectionExpressions.csproj", "{78D4422B-9AB1-4678-803B-234186C4753E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.CollectionExpressions", "src\CollectionExpressions\02.CollectionExpressions.csproj", "{78D4422B-9AB1-4678-803B-234186C4753E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.AliasAnyType", "src\AliasAnyType\3.AliasAnyType.csproj", "{1BAC6A57-6635-44A8-9AFE-312B562883E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.AliasAnyType", "src\AliasAnyType\03.AliasAnyType.csproj", "{1BAC6A57-6635-44A8-9AFE-312B562883E7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.OptionalLambdaExpressionParameters", "src\OptionalLambdaExpressionParameters\4.OptionalLambdaExpressionParameters.csproj", "{0BDE1F9B-FD1F-42D9-BA41-7FD07CC02C90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.OptionalLambdaExpressionParameters", "src\OptionalLambdaExpressionParameters\04.OptionalLambdaExpressionParameters.csproj", "{0BDE1F9B-FD1F-42D9-BA41-7FD07CC02C90}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.InlineArrays", "src\InlineArrays\5.InlineArrays.csproj", "{883A82B1-C62C-4F95-97D7-683FF9DAD14B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.InlineArrays", "src\InlineArrays\05.InlineArrays.csproj", "{883A82B1-C62C-4F95-97D7-683FF9DAD14B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.RefReadonlyParameters", "src\RefReadonlyParameters\6.RefReadonlyParameters.csproj", "{DBB85E99-F8EA-496A-8107-1148FF599B0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.RefReadonlyParameters", "src\RefReadonlyParameters\06.RefReadonlyParameters.csproj", "{DBB85E99-F8EA-496A-8107-1148FF599B0F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.ExperimentalAttribute", "src\ExperimentalAttribute\7.ExperimentalAttribute.csproj", "{78464DA2-95C7-4799-BA27-99CD894C3458}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.ExperimentalAttribute", "src\ExperimentalAttribute\07.ExperimentalAttribute.csproj", "{78464DA2-95C7-4799-BA27-99CD894C3458}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.NameofAccessingInstanceMembers", "src\NameofAccessingInstanceMembers\8.NameofAccessingInstanceMembers.csproj", "{FB81CC4D-BEDE-4499-A70E-B91360D62B62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.NameofAccessingInstanceMembers", "src\NameofAccessingInstanceMembers\08.NameofAccessingInstanceMembers.csproj", "{FB81CC4D-BEDE-4499-A70E-B91360D62B62}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.Interceptors", "src\Interceptors\9.Interceptors.csproj", "{8ADE1DDF-1074-4894-8727-E2CBD0948109}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.Interceptors", "src\Interceptors\09.Interceptors.csproj", "{8ADE1DDF-1074-4894-8727-E2CBD0948109}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
