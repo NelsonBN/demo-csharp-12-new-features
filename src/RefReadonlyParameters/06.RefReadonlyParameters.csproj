@@ -6,7 +6,6 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <RootNamespace>Demo</RootNamespace>
-    <LangVersion>preview</LangVersion>
   </PropertyGroup>
 
 </Project>
